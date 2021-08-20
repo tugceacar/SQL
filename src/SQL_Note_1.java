@@ -5,7 +5,7 @@ public class SQL_Note_1 {
 
  --10Aug2021
 
- -- Oracle PL/SQL Developer
+ --Oracle PL/SQL Developer
 
  --How to create table
 
