@@ -10,7 +10,6 @@ public class SQL_Note_1 {
  --How to create table
 
  --1.Way:Create table from scratch
-
  CREATE TABLE students
  (
  student_id CHAR(3),
